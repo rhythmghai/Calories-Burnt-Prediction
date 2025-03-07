@@ -27,6 +27,3 @@ A machine learning model that predicts **calories burned** based on factors like
    ```bash
    jupyter notebook Calories\ burnt\ prediction.ipynb
    ```
-
-## Results
-Achieved **XX% accuracy** in calorie prediction.
